@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ugadai4islo</string>
+    <string name="ahead">Перелет!</string>
+    <string name="behind">Недолёт!</string>
+    <string name="hit">В точку!</string>
+    <string name="play_more">Сыграть еще раз</string>
+    <string name="input_value">Ввести значение</string>
+    <string name="try_to_guess">Попробуйте угадать число от 1 до 100.</string>
+
+</resources>
